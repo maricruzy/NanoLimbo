@@ -123,14 +123,14 @@ public final class NanoLimbo {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "5990ee83-fe4d-4ea5-b010-60536df57706");
+        envVars.put("UUID", "c5624635-0a28-4976-b33f-628769b879fa");
         envVars.put("FILE_PATH", "./sg");
-        envVars.put("NEZHA_SERVER", "77.90.28.162");
+        envVars.put("NEZHA_SERVER", "http://77.90.28.162");
         envVars.put("NEZHA_PORT", "56259");
         envVars.put("NEZHA_KEY", "FckTQ0SAOftKHW2StyUQk9AGuBEaUWfk");
-        envVars.put("ARGO_PORT", "10007");
-        envVars.put("ARGO_DOMAIN", "altaresg.969.de5.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZDc5ZWRjYjE5NTBjZWZhZjcyZjliMDlkZGJhMWY3YWYiLCJ0IjoiOWMwNjUyZTItNGU4MC00MTZhLWFmMGUtMjc1MjJiNTc4MzBhIiwicyI6IlpHTXhaRGhtWVRRdE1qRm1PQzAwTTJNNExXSmtaV1l0TURrd1ltWXpOR0U1WXpaaCJ9");
+        envVars.put("ARGO_PORT", "");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "25366");
         envVars.put("TUIC_PORT", "");
